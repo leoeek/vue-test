@@ -14,12 +14,12 @@
     "bootstrap": "^4.5.0",
     "core-js": "^3.6.4",
     "jquery": "^3.5.1",
-    "json-server": "^0.16.3",
     "popper.js": "^1.16.1",
     "vue": "^2.6.11",
     "vue-router": "^3.1.6"
   },
   "devDependencies": {
+    "json-server": "^0.16.3",
     "@testing-library/jest-dom": "^5.11.1",
     "@vue/cli-plugin-babel": "~4.3.0",
     "@vue/cli-plugin-eslint": "~4.3.0",
